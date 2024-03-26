@@ -18,6 +18,8 @@ function BodyPage() {
       });
   }, []);
 
+  
+
   return (
     <div className="mt-8 mb-20">
       <div className="">

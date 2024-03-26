@@ -56,6 +56,8 @@ function HomePage() {
             </div>
           </div>
         ))}
+
+        
       </Slider>
       <BodyPage />
     </div>
