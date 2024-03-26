@@ -12,6 +12,7 @@ import Order from "./Pages/Account/Order";
 import Profile from "./Pages/Account/Profile";
 import Footer from "./Components/Shared/Footer";
 
+
 function App() {
   return (
     <Router>
@@ -94,6 +95,10 @@ function App() {
             </div>
           }
         />
+
+        
+
+      
       </Routes>
     </Router>
   );
